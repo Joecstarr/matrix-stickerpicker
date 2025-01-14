@@ -13,3 +13,5 @@ web/lib/import-map.json
 /*.json
 *.bak
 .vscode
+build
+config.json

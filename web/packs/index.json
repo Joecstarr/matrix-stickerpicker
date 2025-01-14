@@ -1,0 +1,14 @@
+{
+  "packs": [
+    "Homer_Jay_Simpson.json",
+    "HomerStickers.json",
+    "Gudetamasvik.json",
+    "PikachuDetective.json",
+    "gendalf1.json",
+    "Life_is_Potato_FULL_ENG_WSZB.json",
+    "YesWeCodebyCIS.json",
+    "HTTPerrors.json",
+    "UnofficialBluey.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
